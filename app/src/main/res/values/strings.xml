@@ -3,4 +3,5 @@
     <string name="texto_boton_click">click</string>
     <string name="texto_titulo">Hello world</string>
     <string name="mensaje">Favorito :)</string>
+    <string name="texto_accion">Acción</string>
 </resources>
